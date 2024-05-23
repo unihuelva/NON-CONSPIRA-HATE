@@ -33,12 +33,7 @@ The project is aligned with the current policies of the European Union and Spain
 
 ## RESEARCH TEAM
 
-The NON-CONSPIRA-HATE! project involves researchers from various countries and universities, with extensive experience across four countries (Spain, Italy, Portugal, and Argentine). This project is developed by an interdisciplinary team of senior researchers, as well as predoctoral researchers developing their PhD and Master students.
 
-The project involves researchers from the areas of Sociology, Social Psychology and Health, under the direction of Estrella Gualda, belonging to the Center for Research in Contemporary Thought and Innovation for Social Development (COIDESO, https://uhu.es/coideso), the research group Social Studies and Social Intervention (ESEIS, https://eseis.es/). Also, researchers from the area of Computer Languages and Systems, led by Jacinto Mata, as well as other researchers of the research group “Information and Knowledge Engineering” (I2C, https://citesuhu.com/tic-243/), and the Technology, Energy and Sustainability Research Center (CITES, https://citesuhu.com/) compose the interdisciplinary  team at the University of Huelva. 
-
-Together with researchers from the University of Huelva, the team is made up of a group of researchers from the areas of Social Sciences, Humanities and Techniques from the Universities of Malaga and the Autonomous University in Madrid (Spain), the international group Narratives & Social Changes – International Research Group at the University of Salerno (Italy), the Research Center for Tourism, Sustainability and Well-being (CinTurs, University of the Algarve, Portugal). In Latin America, researchers belonging to the Institute of Humanities and Social Sciences (INHUS), a unit dependent on the National Council for Scientific and Technical Research (CONICET) and the National University of Mar del Plata (UNMdP) in Argentina are members of the international team.
-
-More info about research team: https://eseis.es/
+Hidden for anonymization
 
 
